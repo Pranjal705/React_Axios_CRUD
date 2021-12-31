@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Axios_CRUD/static/css/main.2d5a12a7.css",
+    "main.js": "/React_Axios_CRUD/static/js/main.8f886167.js",
+    "index.html": "/React_Axios_CRUD/index.html",
+    "main.2d5a12a7.css.map": "/React_Axios_CRUD/static/css/main.2d5a12a7.css.map",
+    "main.8f886167.js.map": "/React_Axios_CRUD/static/js/main.8f886167.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d5a12a7.css",
+    "static/js/main.8f886167.js"
+  ]
+}
